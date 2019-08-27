@@ -1,0 +1,106 @@
+body {
+    background-color: #FFFFF0;
+    font-family: "Quicksand";
+    font-weight: 900;
+    font-size: 1.6em;
+    ;
+}
+
+header {
+
+    width: 100%;
+    background-color: #FFFFF0;
+    align-items: center
+}
+
+.logo {}
+
+.dropdown {
+    float: right;
+    width: 100%;
+}
+
+.hamburger {
+    width: 60px;
+    height: 60px;
+    vertical-align: middle;
+    margin-right: 30px;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.matchContainer {
+    background-color: #fffff0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+    
+
+}
+
+.matchBox {
+
+
+    background-color: #fb5f48;
+    margin: 10px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.messageUser {
+    align-self: flex-end;
+    margin:10px;
+}
+
+.thumbDisplay {
+    width: 150px;
+}
+.profileHeader{
+ width: 100%;
+    font-size: 20px;
+    margin: 5px;
+}
+.profileText{
+ width: 100%;  
+    margin: 10px;
+}
+
+
+.noMatches {
+    font-size: 40px;
+    margin-top: 40px;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 30px;
+    
+}
+.btn-primary {
+ background-color: #014655;   
+}
+button {
+ background-color: #014655;
+    color: white;
+}
+.btn:focus{
+ color: white;  
+}
+.btn:hover{
+ color: white;   
+}
