@@ -9,3 +9,4 @@ Unfinished:
   - Users should only see other users in the same city / local area. (In the future, location should be based off mobile GPS instead of typed city)
   - Clicking "Let's Play" should not instantly match a user, but make them a "potential" match for the second user.
   - Users should only match with another user when *both* parties say "Let's Play".
+  - Users should have profile pictures.
